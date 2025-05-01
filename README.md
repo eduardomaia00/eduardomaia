@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
-0
+
 - Java 24 | Spring Boot | APIs RESTful  
 - JPA / Hibernate | PostgreSQL | H2  
 - Git / GitHub | Swagger | Postman  
@@ -46,4 +46,4 @@ Simples conversor CLI: Celsius ↔ Fahrenheit ↔ Kelvin
 
 ---
 
-🔄 *Atualizado em abril de 2025*
+🔄 *Atualizado em maio de 2025*
